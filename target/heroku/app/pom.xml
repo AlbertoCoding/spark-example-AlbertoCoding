@@ -78,7 +78,7 @@
 <jdkVersion>1.8</jdkVersion>
 <appName>spark-example-albertocoding</appName>
 <processTypes>
-<!-- Tell Heroku how to launch your application. -->
+<!-- Tell Heroku how to launch your application -->
 <web>java -jar ./target/pruebasSparkJava-0.0.1-jar-with-dependencies.jar</web>
 </processTypes>
 </configuration>
